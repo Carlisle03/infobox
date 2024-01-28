@@ -64,6 +64,10 @@ scoop install charm-gum
 
 ### Go to the [Python website](https://python.org) to install on your system
 
+### MAKE
+
+Just search how to install make on your operating system
+
 
 ## DESC
 
