@@ -8,6 +8,16 @@
 
 ### infobox-x 
 
+## INSTALLATION
+
+Install this github repo by doing
+```sh
+git clone https://github.com/Carlisle03/infobox.git
+```
+then do 
+```sh
+make
+```
 
 ## REQUIREMENTS
 
